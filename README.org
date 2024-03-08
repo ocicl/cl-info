@@ -3,8 +3,7 @@
 An utility which collects information about Common Lisp implementation and systems for bugreports
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/40ants/cl-info.git   |
-| commit  | 59d3f1d  |
-| systems | cl-info |
+| source  | git:https://github.com/40ants/cl-info.git |
+| commit  | 2c37e51                                   |
+| systems | cl-info                                   |
 |---------+-------------------------------------------|
-
