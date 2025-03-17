@@ -4,6 +4,6 @@ An utility which collects information about Common Lisp implementation and syste
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/40ants/cl-info.git |
-| commit  | 46b98ec                                   |
+| commit  | 39f2d66                                   |
 | systems | cl-info                                   |
 |---------+-------------------------------------------|
